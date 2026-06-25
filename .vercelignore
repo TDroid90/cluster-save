@@ -1,0 +1,5 @@
+node_modules
+dist
+.qa
+IMG-REFE
+vite-dev*.log
