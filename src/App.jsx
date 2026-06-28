@@ -108,7 +108,7 @@ function App() {
       <header className="site-header">
         <div className="header-inner">
           <a className="brand" href="#inicio" aria-label="ClusterSave inicio" onClick={closeMenu}>
-            <img src="/assets/cluster-save-wordmark.png" alt="ClusterSave" />
+            <img src="/assets/cluster-save-wordmark.webp" alt="ClusterSave" />
           </a>
           <nav className="desktop-nav" aria-label="Navegacion principal">
             {navItems.map(([label, href]) => (
@@ -262,11 +262,12 @@ function App() {
             <div>
               <span>Recuperación avanzada</span>
               <strong>Desde $750.000</strong>
-              <small>Más de 500 GB.</small>
+              <small>A partir de 500 GB, se cobra $700 por GB.</small>
             </div>
           </div>
           <p className="fine-print">
             El valor final depende de la complejidad del caso y del estado del dispositivo.
+            A partir de 1 TB, consultar presupuesto.
           </p>
         </article>
 
@@ -404,7 +405,7 @@ function App() {
 
       <footer className="site-footer">
         <a className="footer-brand" href="#inicio" aria-label="ClusterSave inicio">
-          <img src="/assets/cluster-save-wordmark.png" alt="ClusterSave" />
+          <img src="/assets/cluster-save-wordmark.webp" alt="ClusterSave" />
         </a>
         <p>Recuperación y Resguardo de Datos.</p>
         <nav aria-label="Navegacion del pie">
