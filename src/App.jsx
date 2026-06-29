@@ -21,7 +21,7 @@ import {
   X,
 } from "lucide-react";
 
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "5492964696717";
 const WHATSAPP_TEXT =
   "Hola ClusterSave, quiero consultar por una recuperación de datos.";
 
