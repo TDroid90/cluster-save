@@ -415,7 +415,7 @@ function App() {
             </a>
           ))}
         </nav>
-        <span>ClusterSave © Todos los derechos reservados.</span>
+        <span>ClusterSave © Todos los derechos reservados - Tierra del Fuego</span>
       </footer>
 
     </main>
