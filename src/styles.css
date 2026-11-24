@@ -27,7 +27,7 @@ body {
   min-width: 320px;
   overflow-x: hidden;
   background:
-    linear-gradient(180deg, rgba(0, 108, 255, 0.12) 0, transparent 520px),
+    linear-gradient(180deg, color-mix(in srgb, var(--blue) 12%, transparent) 0, transparent 520px),
     var(--dark);
 }
 
@@ -44,6 +44,15 @@ img {
 main {
   overflow: hidden;
   padding-top: 75px;
+}
+
+.load-state {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  color: var(--muted);
+  text-align: center;
 }
 
 .site-header {
@@ -402,7 +411,7 @@ h3 {
 
 .audience-panel.light .section-label,
 .audience-panel.light .fine-print {
-  color: #006cff;
+  color: var(--blue);
 }
 
 .audience-panel.light p,
@@ -788,6 +797,15 @@ h3 {
 .site-footer span {
   color: rgba(216, 221, 229, 0.66);
   font-size: 14px;
+}
+
+.footer-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+  color: var(--blue-bright);
+  font-weight: 700;
 }
 
 @media (max-width: 980px) {
