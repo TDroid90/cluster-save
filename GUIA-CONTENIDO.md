@@ -7,7 +7,7 @@ La web conserva sus secciones y su diseño. El cliente edita únicamente valores
 - Planilla: https://docs.google.com/spreadsheets/d/1w95JbedkogmhS2ioKmuuftZ7Uej0cUtdrbhUxn4tOEg/edit
 - Script vinculado: https://script.google.com/u/0/home/projects/1hLoymRokzUaS72hc2_D4m6xl1zweiaLVrvTJW42biwWwckBGjQdg0KaF/edit
 - Web app: https://script.google.com/macros/s/AKfycbyLPqYDGVTVZ6Glp39AmTly25VDv4_uKI7v-0x0TNkFmyH8EAoo6VrPbl5XdiV0x3k2pw/exec
-- Vista previa actual: https://cluster-save-3xh2e93dd-smalbonio-gmailcoms-projects.vercel.app (puede requerir iniciar sesion en Vercel)
+- Vista previa: abrir la implementacion Preview mas reciente en Vercel (puede requerir iniciar sesion). La URL cambia en cada despliegue.
 
 ## Uso cotidiano
 
